@@ -1,5 +1,8 @@
 # Major League Baseball Pitching using Python
 This project required me to find and design a novel project from data sourcing to presentation. The data used is all pitches hit in play in the 2021 Major Leauge Baseball (MLB) regular season.
+
+Deliverable dashboard @ https://public.tableau.com/app/profile/emilynordhoff/viz/MLB2_16633458032360/Story1
+
 ### Objectives
 Develop an analysis using Python, visualize the results in Tabluea, and present report to an audience.
 - Data profiling and cleaning
